@@ -3,14 +3,18 @@ body {
     border: 0;
     display: flex;
     justify-content: center;
+    min-width: 100vw;
+    min-height: 100vh;
 }
 #container {
+    display: flex;
+    justify-content: center;
     margin: 0;
     border: 0;
     padding: 0;
     display: flex;
     flex: 1;
     flex-wrap: wrap;
-    max-width: 800px;
+    max-width: 850px;
     max-height: 800px;
 }
