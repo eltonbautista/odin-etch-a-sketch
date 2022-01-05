@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    border: 0;
+    display: flex;
+    justify-content: center;
+}
+#container {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    max-width: 800px;
+    max-height: 800px;
+}
